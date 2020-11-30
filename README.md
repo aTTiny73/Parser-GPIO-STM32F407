@@ -43,3 +43,5 @@ Command: help
  Shows all commands with examples.
 ----------------------------------------------------------------------------|
 ```
+
+#### LED (0,1,2,3) are set to pins (PC6,PC7,PC8,PC9)
