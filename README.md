@@ -4,7 +4,7 @@ Subject: Microprocessor systems in telecommunications, Practice problem
 ## How to run
 ### Clone the repository
 ```
-git clone https://github.com/aTTiny73/multilogger.git
+git clone https://github.com/aTTiny73/Parser-GPIO-STM32F407.git
 ```
 ### Cd into cloned repository and run upload.sh script
 ```
