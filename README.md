@@ -10,7 +10,7 @@ git clone https://github.com/aTTiny73/Parser-GPIO-STM32F407.git
 ```
 sh upload.sh
 ```
-### Instal picocom with command
+### Install picocom with command
 ```
 sudo apt install picocom
 ```
